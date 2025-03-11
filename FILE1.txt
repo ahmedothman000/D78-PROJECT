@@ -1,5 +1,10 @@
 #include <stdio.h>
-//file1 v1
 
-#####
-3333
+//version1
+int main()
+{
+int x;
+x=19;
+printf("x=%d",x);
+
+}
